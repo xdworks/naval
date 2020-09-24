@@ -65,3 +65,38 @@ Be well,
 Eric
 
 艾瑞克
+
+
+
+## Timeline of Naval Ravikant
+
+纳瓦尔拉维坎特的时间表
+
+* 1974 - Born in Delhi, India
+* 1974年-出生于印度德里
+* 1985 - Age 9 - Moved from New Delhi to Queens, NY
+* 1985年--9岁--从新德里搬到纽约皇后区
+* 1989 - Age 14 - Attended Stuyvesant High School
+* 1989年-14岁-就读于斯图文森高中(Stuyvesant High School)
+* 1995 - Age 21 - Graduated Dartmouth (studied computer science and economics)
+* 1995年-21岁-达特茅斯大学毕业(学习计算机科学和经济学)
+* 1999 - Age 25 - Founder/CEO of Epinions
+* 1999-25岁-Epinions创始人/首席执行官
+* 2001 - Age 27 - Venture Partner at August Capital
+* 2001-27岁-8月资本的风险合伙人
+* 2003 - Age 29 - Founder of Vast.com, a classified ad marketplace
+* 2003年-29岁-分类广告市场Vast.com的创始人
+* 2005 - Age 30 - Is called “Radioactive Mud” in Silicon Valley
+* 2005年--30岁--在硅谷被称为“放射性泥浆”
+* 2007 - Age 32 - Founded Hit Forge, a small VC fund originally conceived as an incubator
+* 2007年，32岁，创立了HIT Forge，这是一家小型风险投资基金，最初被构思为孵化器
+* 2007 - Age 32 - Launched VentureHacks blog
+* 2007-32岁-推出VentureHacks博客
+* 2010 - Age 34 - Launched AngelList
+* 2010-34岁-推出AngelList
+* 2010 - Age 34 - Invested in Uber
+* 2010-34岁-投资优步
+* 2012 - Age 36 - Lobbied Congress to get the JOBS Act passed
+* 2012年的今天，36岁的他游说国会通过就业法案
+* 2018 - Age 43 - Is named “Angel Investor of the Year”
+* 2018年--43岁--被评为“年度最佳天使投资者”
