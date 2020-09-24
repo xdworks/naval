@@ -2,3 +2,4 @@
 
 * [本书重要说明](important-notes-on-this-books.md)
 * [前言](forward.md)
+* [艾瑞克的笔记](eric.md)
