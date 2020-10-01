@@ -52,7 +52,7 @@
 * [Live by Your Values 按照你的价值观生活](2-20.md)
 * [Rational Buddhism 理性佛教](2-21.md)
 * [The Present Is All We Have 现在是我们的全部](2-21.md)
-* [Bonus 奖金](2-22.md)
+* [Bonus 额外](2-22.md)
 * [Naval’s Recommended Reading 纳瓦尔推荐读物](2-23.md)
 * [Books 书籍](2-24.md)
 * [Other Recommendations 其他建议](2-25.md)
