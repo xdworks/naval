@@ -62,3 +62,7 @@
 * [Naval’s Writing 纳瓦尔的写作](2-27.md)
 * [Next on Naval 纳瓦尔下一站](2-28.md)
 * [Appreciation 赏识](2-29.md)
+
+
+* 本书网上免费版本请造访 <https://www.navalmanack.com/>
+* 纸质版请造访 <https://www.amazon.com/gp/product/1544514212>
