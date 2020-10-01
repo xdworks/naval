@@ -5,7 +5,7 @@
 * [艾瑞克的笔记](eric.md)
 * [纳瓦尔自己的话](naval.md)
 
-## 第一部份 财源
+## 第一部份 财富
 
 * [Building Wealth 建造財富](1-1.md)
 * [Understand How Wealth Is Created 了解财富是如何创造的](1-2.md)
@@ -26,3 +26,36 @@
 * [Learn the Skills of Decision-Making 学习决策的技巧](1-17.md)
 * [Collect Mental Models 收集心智模型](1-18.md)
 * [Learn to Love to Read 学会爱读书](1-19.md)
+
+
+## 第二部分：幸福
+
+* [Learning Happiness 学习快乐](2-1.md)
+* [Happiness Is Learned 幸福是后天学来的](2-2.md)
+* [Happiness Is a Choice 幸福是一种选择](2-3.md)
+* [Happiness Requires Presence 幸福需要在场](2-4.md)]
+* [Happiness Requires Peace 幸福需要和平](2-5.md)
+* [Every Desire Is a Chosen Unhappiness 每一个欲望都是一种选择的不快乐](2-6.md)
+* [Success Does Not Earn Happiness 成功不会带来幸福](2-7.md)
+* [Envy Is the Enemy of Happiness 嫉妒是幸福的敌人](2-8.md)
+* [Happiness Is Built by Habits 幸福是由习惯造就的。](2-9.md)
+* [Find Happiness in Acceptance 在接受中寻找快乐](2-10.md)
+* [Saving Yourself 拯救你自己](2-11.md)
+* [Choosing to Be Yourself 选择做你自己](2-12.md)
+* [Choosing to Care for Yourself 选择照顾自己](2-13.md)
+* [Meditation + Mental Strength 冥想+精神力量](2-14.md)
+* [Choosing to Build Yourself 选择打造自己](2-15.md)
+* [Choosing to Grow Yourself 选择成长自己](2-16.md)
+* [Choosing to Free Yourself 选择解放自己](2-17.md)
+* [Philosophy 哲理](2-18.md)
+* [The Meanings of Life 生命的意义](2-19.md)
+* [Live by Your Values 按照你的价值观生活](2-20.md)
+* [Rational Buddhism 理性佛教](2-21.md)
+* [The Present Is All We Have 现在是我们的全部](2-21.md)
+* [Bonus 奖金](2-22.md)
+* [Naval’s Recommended Reading 纳瓦尔推荐读物](2-23.md)
+* [Books 书籍](2-24.md)
+* [Other Recommendations 其他建议](2-25.md)
+* [Naval’s Writing 纳瓦尔的写作](2-26.md)
+* [Next on Naval 纳瓦尔下一站](2-27.md)
+* [Appreciation 赏识](2-28.md)
