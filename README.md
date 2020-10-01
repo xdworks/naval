@@ -66,3 +66,5 @@
 
 * 本书网上免费版本请造访 <https://www.navalmanack.com/>
 * 纸质版请造访 <https://www.amazon.com/gp/product/1544514212>
+
+内容版权归属原作者。这个 repo 只是为了翻译学习使用。
