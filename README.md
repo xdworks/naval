@@ -52,9 +52,12 @@
 * [Live by Your Values 按照你的价值观生活](2-20.md)
 * [Rational Buddhism 理性佛教](2-21.md)
 * [The Present Is All We Have 现在是我们的全部](2-22.md)
-* [Bonus 额外](2-23.md)
-* [Naval’s Recommended Reading 纳瓦尔推荐读物](2-24.md)
-* [Books 书籍](2-25.md)
+
+# Bouns 额外
+
+* [Naval’s Recommended Reading 纳瓦尔推荐读物](2-23.md)
+  - [Books 书籍](2-24.md)
+  - [Blogs 部落格](2-25.md)
 * [Other Recommendations 其他建议](2-26.md)
 * [Naval’s Writing 纳瓦尔的写作](2-27.md)
 * [Next on Naval 纳瓦尔下一站](2-28.md)
