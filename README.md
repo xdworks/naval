@@ -69,3 +69,7 @@
 * 纸质版请造访 <https://www.amazon.com/gp/product/1544514212>
 
 内容版权归属原作者。这个 repo 只是为了翻译学习使用。
+
+# ebook format
+
+* [Download Epub for ebook reading](./The%20Almanack%20of%20Naval%20-%20Naval.epub)
